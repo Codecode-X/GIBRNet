@@ -1,6 +1,6 @@
 # GIBRNet: A Multimodal Spatiotemporal Reasoning Network Integrating Emotion, Gaze, and Position for Gaze Interaction Behavior Recognition
 
-**🚩Accepted by CogSCI 2025！✨ **
+🚩**Accepted by CogSCI 2025！**✨
 
 ---
 
